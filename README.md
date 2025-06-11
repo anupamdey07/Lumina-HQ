@@ -1,2 +1,3 @@
-# Lumina-HQ
-Repository for the agent workforce in humanops project
+# Daily News Pulse
+
+Automated daily news summary with WhatsApp delivery and political leaning classification.
